@@ -9,12 +9,12 @@ this mini project do the following:
 - control the irrigation of the crops by humidity sensor 
 
 the following chart illustrate the program flow.
-![alt text]()
+![alt text](https://github.com/ezecson/Farm-Automation-By-PLC/blob/master/images%20and%20video/program%20flow.jpg)
 
 two methods has been used to connect the sensor with plc 
 - first method
-![alt text]()
+![](https://github.com/ezecson/Farm-Automation-By-PLC/blob/master/images%20and%20video/plc%20connections%20-1.jpg)
 - second method 
-![alt text]()
+![alt text](https://github.com/ezecson/Farm-Automation-By-PLC/blob/master/images%20and%20video/plc%20connection%202-1.jpg)
 
-watch the [video]() that showing the mini project. for high quality video from [here](https://www.dropbox.com/s/dmsbnakknm2wcn8/video.mp4?dl=0)
+watch the [video](https://github.com/ezecson/Farm-Automation-By-PLC/blob/master/images%20and%20video/video.mp4) that showing the mini project. for high quality video from [here](https://www.dropbox.com/s/dmsbnakknm2wcn8/video.mp4?dl=0)
