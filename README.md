@@ -1,17 +1,16 @@
 # Farm-Automation-By-PLC
-simatic s7-1200 has been used to make a mini project of farm automation to implement the main functions in plc S7-1200 using ladder diagram by tia portal v13 software.
+Simatic S7-1200 was used to make a mini project of farm automation to implement the main functions of PLC S7-1200 using ladder diagram by TIA Portal V13 software.
 
-this mini project do the following:
-- control the temperature inside the farm 
-- a periodic ventalation system has been applied
-- control the irrigation of the crop
-- protect the crops form insects by pesticides
-- control the irrigation of the crops by humidity sensor 
+this project aims to:
+- control the temperature inside the farm.
+- a periodic ventalation system.
+- control the irrigation of the crop using humidity sensor.
+- protect the crops form insects by pesticides. 
 
-the following chart illustrate the program flow.
+the following chart illustrates the program flow.
 ![alt text](https://github.com/ezecson/Farm-Automation-By-PLC/blob/master/images%20and%20video/program%20flow.jpg)
 
-two methods has been used to connect the sensor with plc 
+two methods were used to connect the sensors with the PLC 
 - first method
 ![](https://github.com/ezecson/Farm-Automation-By-PLC/blob/master/images%20and%20video/plc%20connections%20-1.jpg)
 - second method 
